@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous que vous avez installé les outils suivants sur
 
 Clonez ce repository sur votre machine locale en utilisant Git :
 
-git clone https://github.com/votre-utilisateur/api-express-typescript-postgresql.git
+git clone https://github.com/Christophe-008/api-rest-ts-express-demo
 cd api-express-typescript-postgresql
 
 ### 2. Installez les dépendances
